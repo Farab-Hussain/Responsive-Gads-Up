@@ -1,0 +1,2157 @@
+.Step-One-Main{
+    height: 640px;
+    background-color:#F2F3F7;
+}
+
+.Step-one-container{
+    height: 640px;
+    border:none;
+}
+
+.Step-one-coloum1{
+    height: 640px;
+    border:none;
+}
+
+
+.Step-one-coloum2{
+    height: 640px;
+    border:none;
+}
+
+
+.Step-one-logo{
+    margin-left:-4px;
+    padding-top:5px;
+}
+
+.Step-one-heading1{
+    font-size:65px;
+    font-weight: 800;
+    line-height: 71.5px;
+    margin-left:-4px;
+    color: #606060;
+    font-family: 'Poppins', sans-serif;
+    width: 380px;
+    padding-top:45px;
+}
+
+.Step-one-span{
+    background: -webkit-linear-gradient(-290deg, #FF6476 , #FD8C50);
+    -webkit-background-clip: text ;
+    -webkit-text-fill-color:transparent;
+}
+
+.Step-one-para{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    color: #606060;
+    margin-left:-4px;
+    font-family: 'Poppins', sans-serif;
+    width: 570px;
+    padding-top: 10px;
+}
+
+.Step-one-img{
+    padding-top:85px;
+    width: 100%;  
+    animation: fadeInRight 1.5s ease-in-out;
+}
+
+
+
+
+
+@keyframes fadeInRight {
+    from {
+      opacity: 0;
+      transform: translateX(75px);
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-two-main{
+    height:810px;
+}
+
+.Step-two-container{
+    height: 810px;
+    border:none;
+}
+
+.Step-two-paragraph{
+    font-size: 28px;
+    font-weight: 500;
+    line-height:42px;
+    color: #606060;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width: 1100px;
+    padding-left: 30px;
+    padding-top:50px;
+}
+
+.Step-two-coloum1{
+    height: 560px;
+    border:none;
+    margin-top:40px;
+}
+
+.Step-two-coloum1 img{
+    width: 80%;
+    margin-left:-25px;
+}
+
+.Step-two-coloum2{
+    height: 560px;
+    border:none;
+    margin-top:40px;
+}
+
+
+.Step-two-coloum2 img{
+    width: 101%;
+    padding-top:110px;
+    padding-left:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-three-mian{
+    height: 550px;
+    border:none;
+}
+
+.Step-three-container{
+    height: 550px;
+    border:none;
+}
+
+.Step-three-paragraph1{
+    font-size: 68px;
+    font-weight:500;
+    color: #606060;
+    line-height:102px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    width:990px;
+    padding-left:120px;
+}
+
+.Step-three-span{
+    color: #FD7659;
+}
+
+
+
+
+
+.Step-three-paragraph2{
+    font-size: 28px;
+    font-weight:500;
+    color: #606060;
+    line-height:42px;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    width:990px;
+    padding-left:120px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-four-main{
+    height:600px;
+}
+
+
+.Step-four-container{
+    height: 460px;
+    border:none;
+}
+
+.Step-four-coloum{
+    height:350px;
+    border:none;
+    margin-top:50px;
+}
+
+.Step-four-heading3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF4878;
+    line-height:36px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Step-four-paragraph{
+    font-size:24px;
+    font-weight: 500;
+    color: #606060;
+    padding-top:30px;
+    line-height:29.9px;
+    width:520px;
+}
+
+
+.Step-four-img{
+    margin-top:-90px;
+}
+
+
+
+.Step-four-main{
+    height:600px;
+}
+
+
+.Step-four-container{
+    height: 460px;
+    border:none;
+}
+
+.Step-four-coloum{
+    height:350px;
+    border:none;
+    margin-top:50px;
+}
+
+.Step-four-heading3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF4878;
+    line-height:36px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Step-four-paragraph{
+    font-size:24px;
+    font-weight: 500;
+    color: #606060;
+    padding-top:30px;
+    line-height:29.9px;
+    width:520px;
+}
+
+
+.Step-four-img{
+    margin-top:-90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-five-main{
+    height:700px;
+    border:none;
+}
+
+
+.Step-five-container{
+    height: 700px;
+    border:none;
+}
+
+.Step-five-coloum{
+    height:450px;
+    border:none;
+    margin-top:50px;
+}
+
+.Step-five-heading3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF4878;
+    line-height:36px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Step-five-paragraph{
+    font-size:24px;
+    font-weight: 500;
+    color: #606060;
+    padding-top:30px;
+    line-height:29.9px;
+    width:520px;
+}
+
+
+.Step-five-img{
+    width:100%;
+    margin-top:-130px;
+}
+
+
+
+
+.for-horizontal-row{
+    height: 200px;
+    border:none;
+}
+
+.hr{
+    height:4px;
+    width:25%;
+    background: -webkit-linear-gradient(-290deg, #FF6476 , #FD8C50);
+    border:none;
+}
+
+
+
+.Step-five-paragraph2{
+    font-size: 28px;
+    font-weight: 500;
+    color: #606060;
+    line-height: 42px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width:1040px;
+    padding-left:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-six-main{
+    height:600px;
+    border:none;
+}
+
+
+.Step-six-container{
+    height: 460px;
+    border:none;
+
+}
+
+.Step-six-coloum1{
+    height:400px;
+    border:none;
+    margin-top:120px;
+}
+
+.Step-six-coloum2{
+    height:400px;
+    border:none;
+    margin-top:80px;
+}
+
+.Step-six-heading3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF4878;
+    line-height:36px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Step-six-paragraph{
+    font-size:24px;
+    font-weight: 500;
+    color: #606060;
+    padding-top:30px;
+    line-height:29.9px;
+    width:520px;
+}
+
+
+.Step-six-img{
+    margin-top:-90px;
+}
+
+.Aroow{
+    height: 200px;
+    border:none;
+}
+
+.Aroow img{
+    padding-left:350px;
+    margin-top:-100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-seven-main{
+    height:600px;
+    border:none;
+}
+
+
+.Step-seven-container{
+    height: 600px;
+    border:none;
+}
+
+.Step-seven-coloum{
+    height:450px;
+    border:none;
+    margin-top:50px;
+}
+
+.Step-seven-heading3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF4878;
+    line-height:36px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Step-seven-paragraph{
+    font-size:24px;
+    font-weight: 500;
+    color: #606060;
+    padding-top:30px;
+    line-height:29.9px;
+    width:520px;
+}
+
+
+.Step-seven-img{
+    width:100%;
+    margin-top:-130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-eight-main{
+    height:600px;
+    border:none;
+    margin-top:-130px;
+}
+
+
+.Step-eight-container{
+    height: 460px;
+    border:none;
+
+}
+
+.Step-eight-coloum1{
+    height:400px;
+    border:none;
+    margin-top:120px;
+}
+
+.Step-eight-coloum2{
+    height:400px;
+    border:none;
+    margin-top:80px;
+}
+
+.Step-eight-heading3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF4878;
+    line-height:36px;
+    width:550px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Step-eight-paragraph{
+    font-size:24px;
+    font-weight: 500;
+    color: #606060;
+    padding-top:30px;
+    line-height:29.9px;
+    width:510px;
+}
+
+
+.Step-eight-img{
+    width:105%;
+    margin-top:-100px;
+}
+
+
+
+.Aroow--{
+    height: 200px;
+    border:none;
+}
+
+.Aroow-- img{
+    padding-left:350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-nine-main{
+    height:600px;
+    border:none;
+}
+
+
+.Step-nine-container{
+    height: 600px;
+    border:none;
+}
+
+.Step-nine-coloum{
+    height:450px;
+    border:none;
+    margin-top:50px;
+}
+
+.Step-nine-heading3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF4878;
+    line-height:36px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Step-nine-paragraph{
+    font-size:24px;
+    font-weight: 500;
+    color: #606060;
+    padding-top:30px;
+    line-height:29.9px;
+    width:520px;
+}
+
+
+.Step-nine-img{
+    width:100%;
+    margin-top:-130px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-ten-main{
+    height:600px;
+    border:none;
+    margin-top:-130px;
+}
+
+
+.Step-ten-container{
+    height: 460px;
+    border:none;
+
+}
+
+.Step-ten-coloum1{
+    height:400px;
+    border:none;
+    margin-top:120px;
+}
+
+.Step-ten-coloum2{
+    height:400px;
+    border:none;
+    margin-top:80px;
+}
+
+.Step-ten-heading3{
+    font-size: 30px;
+    font-weight: 700;
+    color: #FF4878;
+    line-height:36px;
+    width:550px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.Step-ten-paragraph{
+    font-size:24px;
+    font-weight: 500;
+    color: #606060;
+    padding-top:30px;
+    line-height:29.9px;
+    width:510px;
+}
+
+
+.Step-ten-img{
+    width:105%;
+    margin-top:-100px;
+}
+
+
+
+.Aroow--{
+    height: 200px;
+    border:none;
+}
+
+.Aroow-- p{
+    font-size: 28px;
+    font-weight: 500;
+    color: #606060;
+    line-height: 42px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width:1020px;
+    padding-left:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Step-eleven-mian{
+    height: 750px;
+}
+
+.Step-eleven-container{
+    height: 750px;
+    border:none;
+}
+
+
+.Step-eleven-para{
+    font-size: 68px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    color: #606060;
+    text-align: center;
+}
+
+.Step-eleven-span{
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    color: #FF4878;
+    text-align: center;
+}
+
+
+
+
+.Step-eleven-coloum{
+    height: 550px;
+    border:none;
+    padding-top:40px;
+}
+
+
+
+
+
+.card1{
+    height: 500px;
+    width: 61%;
+    border-radius:50px;
+    margin-left:155px;
+    background: rgb(236,236,236);
+    background: linear-gradient(115deg, rgba(236,236,236,1) 6%, rgba(250,250,250,1) 96%);
+    border:none;
+}
+
+.card2{
+    height: 500px;
+    width: 61%;
+    border-radius:50px;
+    margin-left:30px;
+    background-image:linear-gradient(115deg,#FD6771,#FC8750);
+    border:none;
+}
+
+
+.btn-mine{
+    height: 40px;
+    width: 60%;
+    font-size:20px;
+    font-weight: 500;
+    line-height: 27px;
+    background-color: #FAC344;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    border: none;
+    border-radius:25px;
+    margin-left:62px;
+    margin-top:20px;
+}
+
+.Card1-paragraph{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 32.5px;
+    font-family: 'Poppins', sans-serif;
+    color: #606060;
+    text-align: center;
+    width: 300px;
+    padding-left:25px;
+    padding-top:30px;
+}
+
+.Card1-paragraph span{
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 120.5px;
+    font-family: 'Poppins', sans-serif;
+    color:  #FD8A50;
+    text-align: center;
+    width: 300px;
+}
+
+
+.Card1-paragraph1{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top:-15PX;
+    font-family: 'Poppins', sans-serif;
+    color:#606060;
+    text-align: center;
+    width: 300px;
+    padding-left:30px;
+}
+
+.btn-last{
+    height: 40px;
+    width: 70%;
+    font-size:20px;
+    font-weight: 600;
+    line-height: 27px;
+    background-image:linear-gradient(150deg,#e8e8e8,#f2ecec);
+    color: #FD6E6A;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    border: none;
+    border-radius:25px;
+    margin-left:45px;
+    margin-top:20px;
+}
+
+
+.btn-last:hover{
+    height: 40px;
+    width: 70%;
+    font-size:20px;
+    font-weight: 600;
+    line-height: 27px;
+    transition:1.5s;
+    background-image:linear-gradient(115deg,#FD6771,#FC8750);
+    color: white;
+    transition:0.5s;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    border: none;
+    border-radius:25px;
+    margin-left:45px;
+    margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Card2-paragraph{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 32.5px;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    text-align: center;
+    width: 300px;
+    padding-left:25px;
+    padding-top:30px;
+}
+
+.Card2-paragraph span{
+    font-size: 65px;
+    font-weight: 600;
+    line-height: 120.5px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-align: center;
+    width: 300px;
+}
+
+
+.Card2-paragraph1{
+    font-size: 18px;
+    font-weight: 600;
+    margin-top:-15PX;
+    font-family: 'Poppins', sans-serif;
+    color:white;
+    text-align: center;
+    width: 300px;
+    padding-left:30px;
+}
+
+.btn-last2{
+    height: 40px;
+    width: 70%;
+    font-size:20px;
+    font-weight: 600;
+    line-height: 27px;
+    background-image:linear-gradient(150deg,#e8e8e8,#f2ecec);
+    color: #FD6E6A;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    border: none;
+    border-radius:25px;
+    margin-left:45px;
+    margin-top:20px;
+}
+
+
+.btn-last2:hover{
+    height: 40px;
+    width: 70%;
+    font-size:20px;
+    font-weight: 600;
+    line-height: 27px;
+    transition:1.5s;
+    background-image:linear-gradient(115deg,#FD6771,#FC8750);
+    color: white;
+    transition:0.5s;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    border: none;
+    border-radius:25px;
+    margin-left:45px;
+    margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.last3{
+    font-size: 16px;
+    font-weight: 400;
+    padding-left:380px;
+}
+
+
+.All-area-div{
+    height:7153px;
+    border:none;
+    background-color: #F7F8FC;
+  }
+
+
+
+
+@media (width:3200px ) {
+
+    .Step-One-Main{
+        height: 640px;
+        background-color:#F2F3F7;
+    }
+    
+    .Step-one-container{
+        height: 640px;
+        border:none;
+    }
+    
+    .Step-one-coloum1{
+        height: 640px;
+        border:none;
+    }
+    
+    
+    .Step-one-coloum2{
+        height: 640px;
+        border:none;
+    }
+    
+    
+    .Step-one-logo{
+        margin-left:-4px;
+        padding-top:5px;
+    }
+    
+    .Step-one-heading1{
+        font-size:65px;
+        font-weight: 800;
+        line-height: 71.5px;
+        margin-left:-4px;
+        color: #606060;
+        font-family: 'Poppins', sans-serif;
+        width: 380px;
+        padding-top:45px;
+    }
+    
+    .Step-one-span{
+        background: -webkit-linear-gradient(-290deg, #FF6476 , #FD8C50);
+        -webkit-background-clip: text ;
+        -webkit-text-fill-color:transparent;
+    }
+    
+    .Step-one-para{
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 27px;
+        color: #606060;
+        margin-left:-4px;
+        font-family: 'Poppins', sans-serif;
+        width: 570px;
+        padding-top: 10px;
+    }
+    
+    .Step-one-img{
+        padding-top:85px;
+        width: 100%;  
+        animation: fadeInRight 1.5s ease-in-out;
+    }
+    
+    
+    
+    
+    
+    @keyframes fadeInRight {
+        from {
+          opacity: 0;
+          transform: translateX(75px);
+        }
+        to {
+          opacity: 1;
+        }
+      }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-two-main{
+        height:810px;
+    }
+    
+    .Step-two-container{
+        height: 810px;
+        border:none;
+    }
+    
+    .Step-two-paragraph{
+        font-size: 28px;
+        font-weight: 500;
+        line-height:42px;
+        color: #606060;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        width: 1100px;
+        padding-left: 30px;
+        padding-top:50px;
+    }
+    
+    .Step-two-coloum1{
+        height: 560px;
+        border:none;
+        margin-top:40px;
+    }
+    
+    .Step-two-coloum1 img{
+        width: 80%;
+        margin-left:-25px;
+    }
+    
+    .Step-two-coloum2{
+        height: 560px;
+        border:none;
+        margin-top:40px;
+    }
+    
+    
+    .Step-two-coloum2 img{
+        width: 101%;
+        padding-top:110px;
+        padding-left:20px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-three-mian{
+        height: 550px;
+        border:none;
+    }
+    
+    .Step-three-container{
+        height: 550px;
+        border:none;
+    }
+    
+    .Step-three-paragraph1{
+        font-size: 68px;
+        font-weight:500;
+        color: #606060;
+        line-height:102px;
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+        width:990px;
+        padding-left:120px;
+    }
+    
+    .Step-three-span{
+        color: #FD7659;
+    }
+    
+    
+    
+    
+    
+    .Step-three-paragraph2{
+        font-size: 28px;
+        font-weight:500;
+        color: #606060;
+        line-height:42px;
+        text-align: center;
+        font-family: 'Poppins', sans-serif;
+        width:990px;
+        padding-left:120px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-four-main{
+        height:600px;
+    }
+    
+    
+    .Step-four-container{
+        height: 460px;
+        border:none;
+    }
+    
+    .Step-four-coloum{
+        height:350px;
+        border:none;
+        margin-top:50px;
+    }
+    
+    .Step-four-heading3{
+        font-size: 30px;
+        font-weight: 700;
+        color: #FF4878;
+        line-height:36px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    
+    .Step-four-paragraph{
+        font-size:24px;
+        font-weight: 500;
+        color: #606060;
+        padding-top:30px;
+        line-height:29.9px;
+        width:520px;
+    }
+    
+    
+    .Step-four-img{
+        margin-top:-90px;
+    }
+    
+    
+    
+    .Step-four-main{
+        height:600px;
+    }
+    
+    
+    .Step-four-container{
+        height: 460px;
+        border:none;
+    }
+    
+    .Step-four-coloum{
+        height:350px;
+        border:none;
+        margin-top:50px;
+    }
+    
+    .Step-four-heading3{
+        font-size: 30px;
+        font-weight: 700;
+        color: #FF4878;
+        line-height:36px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    
+    .Step-four-paragraph{
+        font-size:24px;
+        font-weight: 500;
+        color: #606060;
+        padding-top:30px;
+        line-height:29.9px;
+        width:520px;
+    }
+    
+    
+    .Step-four-img{
+        margin-top:-90px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-five-main{
+        height:700px;
+        border:none;
+    }
+    
+    
+    .Step-five-container{
+        height: 700px;
+        border:none;
+    }
+    
+    .Step-five-coloum{
+        height:450px;
+        border:none;
+        margin-top:50px;
+    }
+    
+    .Step-five-heading3{
+        font-size: 30px;
+        font-weight: 700;
+        color: #FF4878;
+        line-height:36px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    
+    .Step-five-paragraph{
+        font-size:24px;
+        font-weight: 500;
+        color: #606060;
+        padding-top:30px;
+        line-height:29.9px;
+        width:520px;
+    }
+    
+    
+    .Step-five-img{
+        width:100%;
+        margin-top:-130px;
+    }
+    
+    
+    
+    
+    .for-horizontal-row{
+        height: 200px;
+        border:none;
+    }
+    
+    .hr{
+        height:4px;
+        width:25%;
+        background: -webkit-linear-gradient(-290deg, #FF6476 , #FD8C50);
+        border:none;
+    }
+    
+    
+    
+    .Step-five-paragraph2{
+        font-size: 28px;
+        font-weight: 500;
+        color: #606060;
+        line-height: 42px;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        width:1040px;
+        padding-left:50px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-six-main{
+        height:600px;
+        border:none;
+    }
+    
+    
+    .Step-six-container{
+        height: 460px;
+        border:none;
+    
+    }
+    
+    .Step-six-coloum1{
+        height:400px;
+        border:none;
+        margin-top:120px;
+    }
+    
+    .Step-six-coloum2{
+        height:400px;
+        border:none;
+        margin-top:80px;
+    }
+    
+    .Step-six-heading3{
+        font-size: 30px;
+        font-weight: 700;
+        color: #FF4878;
+        line-height:36px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    
+    .Step-six-paragraph{
+        font-size:24px;
+        font-weight: 500;
+        color: #606060;
+        padding-top:30px;
+        line-height:29.9px;
+        width:520px;
+    }
+    
+    
+    .Step-six-img{
+        margin-top:-90px;
+    }
+    
+    .Aroow{
+        height: 200px;
+        border:none;
+    }
+    
+    .Aroow img{
+        padding-left:350px;
+        margin-top:-100px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-seven-main{
+        height:600px;
+        border:none;
+    }
+    
+    
+    .Step-seven-container{
+        height: 600px;
+        border:none;
+    }
+    
+    .Step-seven-coloum{
+        height:450px;
+        border:none;
+        margin-top:50px;
+    }
+    
+    .Step-seven-heading3{
+        font-size: 30px;
+        font-weight: 700;
+        color: #FF4878;
+        line-height:36px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    
+    .Step-seven-paragraph{
+        font-size:24px;
+        font-weight: 500;
+        color: #606060;
+        padding-top:30px;
+        line-height:29.9px;
+        width:520px;
+    }
+    
+    
+    .Step-seven-img{
+        width:100%;
+        margin-top:-130px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-eight-main{
+        height:600px;
+        border:none;
+        margin-top:-130px;
+    }
+    
+    
+    .Step-eight-container{
+        height: 460px;
+        border:none;
+    
+    }
+    
+    .Step-eight-coloum1{
+        height:400px;
+        border:none;
+        margin-top:120px;
+    }
+    
+    .Step-eight-coloum2{
+        height:400px;
+        border:none;
+        margin-top:80px;
+    }
+    
+    .Step-eight-heading3{
+        font-size: 30px;
+        font-weight: 700;
+        color: #FF4878;
+        line-height:36px;
+        width:550px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    
+    .Step-eight-paragraph{
+        font-size:24px;
+        font-weight: 500;
+        color: #606060;
+        padding-top:30px;
+        line-height:29.9px;
+        width:510px;
+    }
+    
+    
+    .Step-eight-img{
+        width:105%;
+        margin-top:-100px;
+    }
+    
+    
+    
+    .Aroow--{
+        height: 200px;
+        border:none;
+    }
+    
+    .Aroow-- img{
+        padding-left:350px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-nine-main{
+        height:600px;
+        border:none;
+    }
+    
+    
+    .Step-nine-container{
+        height: 600px;
+        border:none;
+    }
+    
+    .Step-nine-coloum{
+        height:450px;
+        border:none;
+        margin-top:50px;
+    }
+    
+    .Step-nine-heading3{
+        font-size: 30px;
+        font-weight: 700;
+        color: #FF4878;
+        line-height:36px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    
+    .Step-nine-paragraph{
+        font-size:24px;
+        font-weight: 500;
+        color: #606060;
+        padding-top:30px;
+        line-height:29.9px;
+        width:520px;
+    }
+    
+    
+    .Step-nine-img{
+        width:100%;
+        margin-top:-130px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-ten-main{
+        height:600px;
+        border:none;
+        margin-top:-130px;
+    }
+    
+    
+    .Step-ten-container{
+        height: 460px;
+        border:none;
+    
+    }
+    
+    .Step-ten-coloum1{
+        height:400px;
+        border:none;
+        margin-top:120px;
+    }
+    
+    .Step-ten-coloum2{
+        height:400px;
+        border:none;
+        margin-top:80px;
+    }
+    
+    .Step-ten-heading3{
+        font-size: 30px;
+        font-weight: 700;
+        color: #FF4878;
+        line-height:36px;
+        width:550px;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    
+    .Step-ten-paragraph{
+        font-size:24px;
+        font-weight: 500;
+        color: #606060;
+        padding-top:30px;
+        line-height:29.9px;
+        width:510px;
+    }
+    
+    
+    .Step-ten-img{
+        width:105%;
+        margin-top:-100px;
+    }
+    
+    
+    
+    .Aroow--{
+        height: 200px;
+        border:none;
+    }
+    
+    .Aroow-- p{
+        font-size: 28px;
+        font-weight: 500;
+        color: #606060;
+        line-height: 42px;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        width:1020px;
+        padding-left:50px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Step-eleven-mian{
+        height: 750px;
+    }
+    
+    .Step-eleven-container{
+        height: 750px;
+        border:none;
+    }
+    
+    
+    .Step-eleven-para{
+        font-size: 68px;
+        font-weight: 500;
+        font-family: 'Poppins', sans-serif;
+        color: #606060;
+        text-align: center;
+    }
+    
+    .Step-eleven-span{
+        font-size: 22px;
+        font-weight: 700;
+        font-family: 'Poppins', sans-serif;
+        color: #FF4878;
+        text-align: center;
+    }
+    
+    
+    
+    
+    .Step-eleven-coloum{
+        height: 550px;
+        border:none;
+        padding-top:40px;
+    }
+    
+    
+    
+    
+    
+    .card1{
+        height: 500px;
+        width: 61%;
+        border-radius:50px;
+        margin-left:155px;
+        background: rgb(236,236,236);
+        background: linear-gradient(115deg, rgba(236,236,236,1) 6%, rgba(250,250,250,1) 96%);
+        border:none;
+    }
+    
+    .card2{
+        height: 500px;
+        width: 61%;
+        border-radius:50px;
+        margin-left:30px;
+        background-image:linear-gradient(115deg,#FD6771,#FC8750);
+        border:none;
+    }
+    
+    
+    .btn-mine{
+        height: 40px;
+        width: 60%;
+        font-size:20px;
+        font-weight: 500;
+        line-height: 27px;
+        background-color: #FAC344;
+        color: white;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        border: none;
+        border-radius:25px;
+        margin-left:62px;
+        margin-top:20px;
+    }
+    
+    .Card1-paragraph{
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 32.5px;
+        font-family: 'Poppins', sans-serif;
+        color: #606060;
+        text-align: center;
+        width: 300px;
+        padding-left:25px;
+        padding-top:30px;
+    }
+    
+    .Card1-paragraph span{
+        font-size: 65px;
+        font-weight: 600;
+        line-height: 120.5px;
+        font-family: 'Poppins', sans-serif;
+        color:  #FD8A50;
+        text-align: center;
+        width: 300px;
+    }
+    
+    
+    .Card1-paragraph1{
+        font-size: 18px;
+        font-weight: 600;
+        margin-top:-15PX;
+        font-family: 'Poppins', sans-serif;
+        color:#606060;
+        text-align: center;
+        width: 300px;
+        padding-left:30px;
+    }
+    
+    .btn-last{
+        height: 40px;
+        width: 70%;
+        font-size:20px;
+        font-weight: 600;
+        line-height: 27px;
+        background-image:linear-gradient(150deg,#e8e8e8,#f2ecec);
+        color: #FD6E6A;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        border: none;
+        border-radius:25px;
+        margin-left:45px;
+        margin-top:20px;
+    }
+    
+    
+    .btn-last:hover{
+        height: 40px;
+        width: 70%;
+        font-size:20px;
+        font-weight: 600;
+        line-height: 27px;
+        transition:1.5s;
+        background-image:linear-gradient(115deg,#FD6771,#FC8750);
+        color: white;
+        transition:0.5s;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        border: none;
+        border-radius:25px;
+        margin-left:45px;
+        margin-top:20px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .Card2-paragraph{
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 32.5px;
+        font-family: 'Poppins', sans-serif;
+        color:white;
+        text-align: center;
+        width: 300px;
+        padding-left:25px;
+        padding-top:30px;
+    }
+    
+    .Card2-paragraph span{
+        font-size: 65px;
+        font-weight: 600;
+        line-height: 120.5px;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        text-align: center;
+        width: 300px;
+    }
+    
+    
+    .Card2-paragraph1{
+        font-size: 18px;
+        font-weight: 600;
+        margin-top:-15PX;
+        font-family: 'Poppins', sans-serif;
+        color:white;
+        text-align: center;
+        width: 300px;
+        padding-left:30px;
+    }
+    
+    .btn-last2{
+        height: 40px;
+        width: 70%;
+        font-size:20px;
+        font-weight: 600;
+        line-height: 27px;
+        background-image:linear-gradient(150deg,#e8e8e8,#f2ecec);
+        color: #FD6E6A;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        border: none;
+        border-radius:25px;
+        margin-left:45px;
+        margin-top:20px;
+    }
+    
+    
+    .btn-last2:hover{
+        height: 40px;
+        width: 70%;
+        font-size:20px;
+        font-weight: 600;
+        line-height: 27px;
+        transition:1.5s;
+        background-image:linear-gradient(115deg,#FD6771,#FC8750);
+        color: white;
+        transition:0.5s;
+        font-family: 'Poppins', sans-serif;
+        text-align: center;
+        border: none;
+        border-radius:25px;
+        margin-left:45px;
+        margin-top:20px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .last3{
+        font-size: 16px;
+        font-weight: 400;
+        padding-left:380px;
+    }
+    
+    
+    .All-area-div{
+        height:7153px;
+        border:none;
+      }
+    
+}
